@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D086-CB1A
+
+ Directory of C:\Users\Alpha\int20h
+
+04.03.2017  10:03    <DIR>          .
+04.03.2017  10:03    <DIR>          ..
+04.03.2017  10:03                 0 new.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  27ÿ554ÿ824ÿ192 bytes free
